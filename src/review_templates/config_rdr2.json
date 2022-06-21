@@ -1,0 +1,150 @@
+{
+    "name": "Nombre",
+    "categories": [
+        {
+            "title": "Gráficos",
+            "type": "radio",
+            "options": [
+                "Olvidas lo que es la realidad",
+                "Preciosos",
+                "Buenos",
+                "Decentes",
+                "Malos",
+                "No los mires por mucho tiempo",
+                "MS-DOS"
+            ]
+        },
+        {
+            "title": "Gameplay",
+            "type": "radio",
+            "options": [
+                "Muy bueno",
+                "Bueno",
+                "Simple",
+                "Mehh",
+                "Ponte a mirar pintura secandose mejor.",
+                "Simplemente no."
+            ]
+        },
+        {
+            "title": "Audio",
+            "type": "radio",
+            "options": [
+                "Orejasmo",
+                "Muy bueno",
+                "Bueno",
+                "No esta mal",
+                "Malo",
+                "Ahora soy sordo"
+            ]
+        },
+        {
+            "title": "Audiencia",
+            "type": "check",
+            "options": [
+                "Niños",
+                "Adolescentes",
+                "Adultos",
+                "Tu abuela podría jugar"
+            ]
+        },
+        {
+            "title": "Requisitos PC",
+            "type": "radio",
+            "options": [
+                "Comprueba que puedes correr Paint",
+                "Patata",
+                "Decente",
+                "Rapido",
+                "Niño rico",
+                "Pregunta a la NASA si le sobra un PC"
+            ]
+        },
+        {
+            "title": "Dificultad",
+            "type": "radio",
+            "options": [
+                "Solo pulsa 'W'",
+                "Facil",
+                "Facil de aprender / Dificil de dominar",
+                "Uso significativo de tu cerebro",
+                "Dificil",
+                "Dark Souls"
+            ]
+        },
+        {
+            "title": "Grindeo",
+            "type": "radio",
+            "options": [
+                "Nada que grindear",
+                "Solo si te preocupan los marcadores/rangos",
+                "No es necesario para progresar",
+                "Grindeo medio",
+                "Mucho grindeo",
+                "Necesitarás una segunda vida para grindear"
+            ]
+        },
+        {
+            "title": "Historia",
+            "type": "radio",
+            "options": [
+                "Sin historia",
+                "Un poco de lore",
+                "Lo normal",
+                "Buena",
+                "Interesante",
+                "Va a reemplazar tu vida"
+            ]
+        },
+        {
+            "title": "Tiempo de juego",
+            "type": "radio",
+            "options": [
+                "Lo suficiente largo para tomarte un café",
+                "Corto",
+                "Promedio",
+                "Largo",
+                "Hasta el infinito y mas allá"
+            ]
+        },
+        {
+            "title": "Precio",
+            "type": "radio",
+            "options": [
+                "Es gratis!",
+                "Merece la pena",
+                "Solo si está en rebajas",
+                "Solo si te sobra algo de dinero",
+                "No recomiendo gastar el dinero",
+                "Es mejor quemar tu dinero"
+            ]
+        },
+        {
+            "title": "Bugs",
+            "type": "radio",
+            "options": [
+                "No he visto ninguno",
+                "Pequeños Bugs",
+                "Pueden molestar",
+                "ARK: Survival Evolved",
+                "El juego en sí es un bug"
+            ]
+        },
+        {
+            "title": "? / 10",
+            "type": "radio",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10"
+            ]
+        }
+    ]
+}
